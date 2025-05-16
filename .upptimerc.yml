@@ -101,19 +101,19 @@ sites:
     followRedirects: true
     expectedStatus: 200
     ssl: true
- -  name: planespart
+  - name: Planespart
     url: https://planespart.com
     method: GET
     followRedirects: true
     expectedStatus: 200
     ssl: true
- -  name: proezi
+  - name: Proezi
     url: https://proezi.com
     method: GET
     followRedirects: true
     expectedStatus: 200
     ssl: true
- -  name: buymlocal
+  - name: Buymlocal
     url: https://buymlocal.com
     method: GET
     followRedirects: true
