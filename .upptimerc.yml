@@ -1,36 +1,169 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+# Owner of the GitHub repository
+owner: SRESchool
 
+# Name of the GitHub repository
+repo: All-Jetexe-Websites-Uptime-Monitor
+
+user-agent: pritesh-1904
+skipReadme: true
+skipDescription: true
+skipTopics: true
+
+# List of websites to monitor for uptime and SSL
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: Aiaviationacademy
+    url: https://aiaviationacademy.com
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    ssl: true
+  - name: aircrafto
+    url: https://aircrafto.com
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    ssl: true
+  - name: Charterkings
+    url: https://charterkings.com
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    ssl: true
+  - name: Executiveairrepair
+    url: https://executiveairrepair.com
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    ssl: true
+  - name: Flighttrainingus
+    url: https://flighttrainingus.com
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    ssl: true
+  - name: flyaiaa
+    url: https://flyaiaa.com
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    ssl: true
+  - name: Jetandrotor
+    url: https://jetandrotor.com
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    ssl: true
+  - name: Jetexe
+    url: https://jetexe.com
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    ssl: true
+  - name: kitplanepart
+    url: https://kitplanepart.com
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    ssl: true
+  - name: learnflying
+    url: https://learnflying.com
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    ssl: true
+  - name: Lightsportwest
+    url: https://lightsportwest.com
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    ssl: true
+  - name: pilotsdeal
+    url: https://pilotsdeal.com
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    ssl: true
+  - name: pegasus-estates
+    url: https://pegasus-estates.com
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    ssl: true
+  - name: pilotsindia
+    url: https://pilotsindia.com
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    ssl: true
+  - name: Pilottrainingus
+    url: https://pilottrainingus.com
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    ssl: true
+ -  name: planespart
+    url: https://planespart.com
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    ssl: true
+ -  name: proezi
+    url: https://proezi.com
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    ssl: true
+ -  name: buymlocal
+    url: https://buymlocal.com
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    ssl: true
+    port: 80, 443
     check: "tcp-ping"
     ipv6: true
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: null
+  baseUrl: /All-Jetexe-Websites-Uptime-Monitor
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime/master/assets/logo.png
+  name: All Jetexe Websites Uptime Monitor
+  introTitle: Jetexe Websites Status
+  introMessage: This page shows the uptime and SSL status of Jetexe Websites.
+  favicon: https://raw.githubusercontent.com/upptime/upptime/master/assets/favicon.ico
+  theme: light
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# Workflow schedule (every 5 minutes)
+workflowSchedule:
+  graphs: "*/5 * * * *"
+  responseTime: "*/5 * * * *"
+  staticSite: "*/5 * * * *"
+  summary: "*/5 * * * *"
+  updateTemplate: "*/5 * * * *"
+  updates: "*/5 * * * *"
+  uptime: "*/5 * * * *"
+  ssl: "*/5 * * * *"
+
+# Committer configuration
+committer:
+  name: Pritesh
+  email: contact@motoshare.in
+
+# Email notification configuration
+notifications:
+  - type: email
+    smtpTo: contact@motoshare.in
+    smtpFrom: contact@motoshare.in
+    smtpHost: smtp.gmail.com
+    smtpPort: 587
+    smtpUsername: contact@motoshare.in
+    smtpPassword: kmxg nshc vsrf kxqj
+
+# Assignees for issues
+assignees:
+  - pritesh-1904
