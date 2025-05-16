@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3527,
-    "timeDay": 3527,
-    "timeWeek": 3527,
-    "timeMonth": 3527,
-    "timeYear": 3527,
+    "time": 3556,
+    "timeDay": 3556,
+    "timeWeek": 3556,
+    "timeMonth": 3556,
+    "timeYear": 3556,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 425,
-    "timeDay": 425,
-    "timeWeek": 425,
-    "timeMonth": 425,
-    "timeYear": 425,
+    "time": 424,
+    "timeDay": 424,
+    "timeWeek": 424,
+    "timeMonth": 424,
+    "timeYear": 424,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 450,
-    "timeDay": 450,
-    "timeWeek": 450,
-    "timeMonth": 450,
-    "timeYear": 450,
+    "time": 449,
+    "timeDay": 449,
+    "timeWeek": 449,
+    "timeMonth": 449,
+    "timeYear": 449,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 447,
-    "timeDay": 447,
-    "timeWeek": 447,
-    "timeMonth": 447,
-    "timeYear": 447,
+    "time": 445,
+    "timeDay": 445,
+    "timeWeek": 445,
+    "timeMonth": 445,
+    "timeYear": 445,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 462,
-    "timeDay": 462,
-    "timeWeek": 462,
-    "timeMonth": 462,
-    "timeYear": 462,
+    "time": 461,
+    "timeDay": 461,
+    "timeWeek": 461,
+    "timeMonth": 461,
+    "timeYear": 461,
     "dailyMinutesDown": {}
   },
   {
@@ -124,7 +124,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-16": 328
+      "2025-05-16": 337
     }
   },
   {
@@ -138,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1473,
-    "timeDay": 1473,
-    "timeWeek": 1473,
-    "timeMonth": 1473,
-    "timeYear": 1473,
+    "time": 1587,
+    "timeDay": 1587,
+    "timeWeek": 1587,
+    "timeMonth": 1587,
+    "timeYear": 1587,
     "dailyMinutesDown": {}
   },
   {
@@ -156,11 +156,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 473,
-    "timeDay": 473,
-    "timeWeek": 473,
-    "timeMonth": 473,
-    "timeYear": 473,
+    "time": 470,
+    "timeDay": 470,
+    "timeWeek": 470,
+    "timeMonth": 470,
+    "timeYear": 470,
     "dailyMinutesDown": {}
   },
   {
@@ -168,42 +168,6 @@
     "url": "https://learnflying.com",
     "icon": "https://icons.duckduckgo.com/ip3/learnflying.com.ico",
     "slug": "learnflying",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 451,
-    "timeDay": 451,
-    "timeWeek": 451,
-    "timeMonth": 451,
-    "timeYear": 451,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Lightsportwest",
-    "url": "https://lightsportwest.com",
-    "icon": "https://icons.duckduckgo.com/ip3/lightsportwest.com.ico",
-    "slug": "lightsportwest",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 532,
-    "timeDay": 532,
-    "timeWeek": 532,
-    "timeMonth": 532,
-    "timeYear": 532,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "pilotsdeal",
-    "url": "https://pilotsdeal.com",
-    "icon": "https://icons.duckduckgo.com/ip3/pilotsdeal.com.ico",
-    "slug": "pilotsdeal",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -218,6 +182,42 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "Lightsportwest",
+    "url": "https://lightsportwest.com",
+    "icon": "https://icons.duckduckgo.com/ip3/lightsportwest.com.ico",
+    "slug": "lightsportwest",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 531,
+    "timeDay": 531,
+    "timeWeek": 531,
+    "timeMonth": 531,
+    "timeYear": 531,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "pilotsdeal",
+    "url": "https://pilotsdeal.com",
+    "icon": "https://icons.duckduckgo.com/ip3/pilotsdeal.com.ico",
+    "slug": "pilotsdeal",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 447,
+    "timeDay": 447,
+    "timeWeek": 447,
+    "timeMonth": 447,
+    "timeYear": 447,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "pegasus-estates",
     "url": "https://pegasus-estates.com",
     "icon": "https://icons.duckduckgo.com/ip3/pegasus-estates.com.ico",
@@ -228,11 +228,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 574,
-    "timeDay": 574,
-    "timeWeek": 574,
-    "timeMonth": 574,
-    "timeYear": 574,
+    "time": 572,
+    "timeDay": 572,
+    "timeWeek": 572,
+    "timeMonth": 572,
+    "timeYear": 572,
     "dailyMinutesDown": {}
   },
   {
@@ -264,11 +264,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 560,
-    "timeDay": 560,
-    "timeWeek": 560,
-    "timeMonth": 560,
-    "timeYear": 560,
+    "time": 559,
+    "timeDay": 559,
+    "timeWeek": 559,
+    "timeMonth": 559,
+    "timeYear": 559,
     "dailyMinutesDown": {}
   },
   {
@@ -282,11 +282,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 560,
-    "timeDay": 560,
-    "timeWeek": 560,
-    "timeMonth": 560,
-    "timeYear": 560,
+    "time": 557,
+    "timeDay": 557,
+    "timeWeek": 557,
+    "timeMonth": 557,
+    "timeYear": 557,
     "dailyMinutesDown": {}
   },
   {
@@ -324,7 +324,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-16": 327
+      "2025-05-16": 336
     }
   }
 ]
