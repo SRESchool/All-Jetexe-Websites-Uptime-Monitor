@@ -113,18 +113,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jetandrotor.com.ico",
     "slug": "jetandrotor",
     "status": "down",
-    "uptime": "1.20%",
-    "uptimeDay": "1.20%",
-    "uptimeWeek": "1.20%",
-    "uptimeMonth": "1.20%",
-    "uptimeYear": "1.20%",
+    "uptime": "0.79%",
+    "uptimeDay": "0.79%",
+    "uptimeWeek": "0.79%",
+    "uptimeMonth": "0.79%",
+    "uptimeYear": "0.79%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-16": 41
+      "2025-05-16": 63
     }
   },
   {
@@ -324,7 +324,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-16": 40
+      "2025-05-16": 62
     }
   }
 ]
