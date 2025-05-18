@@ -124,7 +124,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 1063,
+      "2025-05-18": 1072,
       "2025-05-17": 1440,
       "2025-05-16": 1064
     }
@@ -315,11 +315,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/buymlocal.com.ico",
     "slug": "buymlocal",
     "status": "up",
-    "uptime": "55.67%",
+    "uptime": "55.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "55.67%",
-    "uptimeMonth": "55.67%",
-    "uptimeYear": "55.67%",
+    "uptimeWeek": "55.78%",
+    "uptimeMonth": "55.78%",
+    "uptimeYear": "55.78%",
     "time": 431,
     "timeDay": 430,
     "timeWeek": 431,
